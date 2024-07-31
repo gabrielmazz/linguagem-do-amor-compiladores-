@@ -1,0 +1,16 @@
+paixao mclovin==10.0
+
+felizes_para_sempre(i=0; i<10; i++){
+    capturando_sentimentos(i)
+}
+
+desejo(mclovin<10)
+{
+    capturando_sentimentos(bellingham)
+}
+
+desapego
+{
+    capturando_sentimentos(sabe de kane)
+}
+interesse mclovin=true

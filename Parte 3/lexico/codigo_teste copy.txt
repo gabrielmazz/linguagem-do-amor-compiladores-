@@ -1,0 +1,57 @@
+interesse mclovin
+paixao a
+atracao b
+palavra c
+
+mclovin=10.0
+pilantrinha_ze = 50
+zebrao = 0
+loirinhas = 36.5
+
+desejo(mclovin <= pilantrinha_ze){
+    enquanto_existir_amor(zebrao<5){ 
+        i=0   
+    }
+}
+
+
+desejo(mclovin<10){
+    capturando_sentimentos(i)
+    
+    desejo(mclovin<5){
+        mostrando_afeto(a)
+        capturando_sentimentos(a)
+    }
+
+    desapego{
+        enquanto_existir_amor(a==b){
+            mostrando_afeto(a)
+            capturando_sentimentos(a)
+
+            desejo(mclovin>5){
+                mostrando_afeto(a)
+                capturando_sentimentos(a)
+            }
+        }
+    }
+}
+
+desapego{
+    capturando_sentimentos(loirinhas)
+    mostrando_afeto(lorinhas)
+
+    felizes_para_sempre(i=0; i<10; i=i+1){
+        capturando_sentimentos(i)
+    }
+
+    desejo(mclovin>10){
+        capturando_sentimentos(c)
+        mostrando_afeto(c)
+    }desapego{
+        enquanto_existir_amor(c==b){
+            mostrando_afeto(zebrao)
+            capturando_sentimentos(pilantrinha_ze)
+        }
+    }
+}
+

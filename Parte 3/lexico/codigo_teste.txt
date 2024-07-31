@@ -1,0 +1,9 @@
+interesse mclovin
+paixao a
+atracao b
+palavra c
+
+mclovin=10.0
+pilantrinha_ze = 50
+zebrao = 0
+loirinhas = 36.5
